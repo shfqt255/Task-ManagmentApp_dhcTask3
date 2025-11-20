@@ -22,3 +22,6 @@ A simple task management app built with Flutter that uses Firebase Authenticatio
 - **Language:** Dart  
 - **Backend/Auth:** Firebase Authentication  
 - **Local Storage:** SharedPreferences  
+
+## Note
+- Please do not use my Api key or project id
